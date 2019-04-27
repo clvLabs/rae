@@ -5,7 +5,7 @@ const { exec } = require('child_process');
 const sleep = require('sleep');
 
 // Command to invoke drae
-const DRAE_CMD = 'docker run squat/drae define';
+const DRAE_CMD = 'docker run --rm squat/drae define';
 
 // used colors
 const colors = {
