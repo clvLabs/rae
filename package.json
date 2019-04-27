@@ -1,0 +1,16 @@
+{
+  "name": "rae",
+  "version": "0.0.1",
+  "description": "Human interface for squat/drae",
+  "main": "rae.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "minimist": "^1.2.0",
+    "sleep": "^5.1.1"
+  }
+}
